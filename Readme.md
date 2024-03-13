@@ -4,7 +4,8 @@
 
 This project is a clone of the Razorpay landing page, a renowned payment gateway service. The goal is to replicate the design and layout using HTML, CSS, and the Tailwind CSS framework. The clone provides a responsive and visually appealing version of the Razorpay landing page, suitable for showcasing your web development skills or as a starting point for further customization.
 
-<img width="944" alt="Screenshot_2024-01-07_200854" src="https://github.com/abhinay-kumar47/Razorpay_landing_page_clone/assets/101319759/44521d37-d8c0-4491-9f74-6134df8f22c2">
+![Screenshot (431)](https://github.com/abhinay-techx/Razorpay_replica/assets/101319759/85b65ec6-5b4c-4184-b828-1358cd2f6779)
+
 
 
 ## Description
